@@ -15,4 +15,6 @@ use 32bit to compile
 reason:
 
 https://social.msdn.microsoft.com/Forums/en-US/6059d5f7-869b-4d77-9429-534e3e546328/createremotethread-not-working-for-32bit-process-in-windows7-64bit-os?forum=windowsgeneraldevelopmentissues
+## demo
 
+![](https://raw.githubusercontent.com/0xdeciverAngel/NS-SHAFT-hack/master/demo.png)
